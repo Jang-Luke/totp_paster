@@ -121,6 +121,7 @@ TotpPaster.spec
 log/
 config/
 build/
+.idea/
 
 # Distribution / packaging
 .Python
